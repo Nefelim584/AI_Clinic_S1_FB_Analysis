@@ -3,7 +3,7 @@ import collections
 import pandas as pd
 import plotly.graph_objects as go
 
-# Load the data
+
 
 PlPrf = pd.read_excel('Players_Performance.xlsx')
 TmPrf = pd.read_excel('Teams_Performance.xlsx')
